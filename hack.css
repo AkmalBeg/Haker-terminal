@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+
+body{
+      
+        color: white;
+        background-color: black;
+        font-size: large;
+          font-family: 'Martel Sans', sans-serif;
+          position: relative;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+    
+        background-image :linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("haker.jpg")  ;
+      background-size:100vw 54vw;
+      background-repeat: no-repeat;
+      background-position: baseline;
+
+    
+}
